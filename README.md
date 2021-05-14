@@ -62,7 +62,7 @@ In the browser, this displays as:
 ```text
 Hello Mourning Dove
 ```
-
+  
 This isn't very fancy, but **_this is actually enough for us to start using our
 JavaScript skills and access with a `fetch()` request_**. 
 
